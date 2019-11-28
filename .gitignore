@@ -1,4 +1,6 @@
 .gitignore
 _todo.txt
+*.url
 
 images/_USED/
+blogpost/
